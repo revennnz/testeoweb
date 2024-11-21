@@ -1,0 +1,31 @@
+{
+    "accounts": [
+        {
+            "id": "dayg",
+            "platform": "Steam",
+            "platformIcon": "https://accountgame.pages.dev/more/steam.png",
+            "previewImage": "https://i.imgur.com/FNNg7Id.png",
+            "username": "usertest",
+            "password": "passtest",
+            "games": [
+                "Days Gone",  
+                "Mortal Kombat 11"    
+            ]
+        },
+        {
+            "id": "howl",
+            "platform": "Steam",
+            "platformIcon": "https://accountgame.pages.dev/more/steam.png",
+            "previewImage": "https://i.imgur.com/XEvhQcB.png",
+            "username": "usertest2",
+            "password": "passtest2",
+            "games": [
+                "Hogwarts Legacy",  
+                "Raft",  
+                "American Truck",  
+                "Euro Truck Simulator 2",  
+                "Steep"    
+            ]
+        }
+    ]
+}
